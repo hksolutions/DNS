@@ -14,10 +14,10 @@ popcorntime.ch
 stremio.com
 thetvdb.com
 twitch.tv
-(^|\.)netflix\.com$
-(^|\.)nflxext\.com$
-(^|\.)nflximg\.net$
-(^|\.)nflxvideo\.net$
+netflix.com
+nflxext.com
+nflximg.net
+nflxvideo.net
 
 # Games
 discordapp.com
