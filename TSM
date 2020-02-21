@@ -1,4 +1,10 @@
-#Movie
+# CleanBrowsing Family Filter active
+# Blocks access to all adult, pornographic and explicit sites. 
+# It also blocks proxy and VPN domains that are used to bypass the filters. 
+# Mixed content sites (like Reddit) are also blocked. 
+# Google, Bing and Youtube are set to the Safe Mode. Malicious and Phishing domains are blocked.
+
+# Movie
 getpopcorntime.is
 image.tmdb.org
 popcorntime-online.ch
@@ -13,7 +19,7 @@ twitch.tv
 #nflximg.net
 #nflxvideo.net
 
-#Games
+# Games
 discordapp.com
 epicgames.com
 nvidiagrid.net
@@ -37,7 +43,7 @@ playrix.com
 clashroyale.com
 brawlstarsgame.com
 
-#Torrent
+# Torrent
 coppersurfer.tk
 leechers-paradise.org
 desync.com
