@@ -1,8 +1,9 @@
-# CleanBrowsing Family Filter (staat aan)
-# Blocks access to all adult, pornographic and explicit sites. 
+# CleanBrowsing Auto Update Filter:
+# Malicious and Phishing domains are blocked.
+# Adult and Pornographic domains are blocked. 
+# Mixed content sites (like Reddit) are blocked.
+# Google, Bing and Youtube are set to the Safe Mode. 
 # It also blocks proxy and VPN domains that are used to bypass the filters. 
-# Mixed content sites (like Reddit) are also blocked. 
-# Google, Bing and Youtube are set to the Safe Mode. Malicious and Phishing domains are blocked.
 
 # Movie
 getpopcorntime.is
